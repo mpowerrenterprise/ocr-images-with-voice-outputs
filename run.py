@@ -24,4 +24,5 @@ def ocr_core(image_name):
 #Testing the project
 returnText =  ocr_core("test_image_2.png")
 
-talk_function(returnText)
+talk_function(returnText)           #testing Done
+

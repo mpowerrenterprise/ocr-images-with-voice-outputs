@@ -6,6 +6,7 @@ engine = pyttsx3.init() # object creation
 
 #This is the function for making the computer to talk
 def talk_function(text):
+    print(text)
     engine.say(text)
     engine.runAndWait()
 
@@ -22,7 +23,7 @@ def ocr_core(image_name):
 
 
 #Testing the project
-returnText =  ocr_core("test_image_2.png")
+returnText =  ocr_core("test_image.jpg")
 
 talk_function(returnText)           #testing Done
 

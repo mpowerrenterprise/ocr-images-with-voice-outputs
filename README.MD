@@ -1,4 +1,4 @@
-# OCR IMAGES WITH VOICE TEXT OUTPUTS
+# OCR Images With Voice Outputs
 
 
 ## Introduction
@@ -91,7 +91,7 @@ The core image library is designed for fast access to data stored in a few basic
 
 ![OCR Image](github-readme-content/output.jpg)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
